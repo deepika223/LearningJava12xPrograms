@@ -9,5 +9,6 @@ public class Lab0010_Println_vs_Print {
 
         System.out.print("Hi");
         System.out.print("Bye");
+        System.out.print("Bye");
     }
 }
