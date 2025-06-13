@@ -1,4 +1,4 @@
-package Oops;
+package ex_14_Oops;
 
 public class class_methods_object {
     //variables
