@@ -6,12 +6,13 @@ public class Relational_Compatision_Operators {
         //Relational or comparision
         //returns boolean value--true/false
 
-        int a=10, b=20;
+        int a=10, b=5;
         System.out.println(a>b);  //false
         System.out.println(a<b);   //true
         System.out.println(a>=b);  //false
         System.out.println(a<=b);  //true
         System.out.println(a!=b);  //true
         System.out.println(a==b);  //false
+
     }
 }
