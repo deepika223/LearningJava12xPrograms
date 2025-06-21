@@ -3,7 +3,7 @@ package ex_06_If_IfElse_Conditions;
 public class Largest_Of_3_Numbers {
     public static void main(String[] args) {
 
-        int a=500,b=200,c=30;
+        int a=10,b=10,c=8;
 
         if (a>b && a>c)
         {
